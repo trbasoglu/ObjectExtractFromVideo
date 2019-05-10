@@ -1,5 +1,5 @@
 # ObjectExtractFromVideo
-It is used to crop objects from video.
+It is used to crop objects from video. It canbe used to create dataset for classification training.
 
 ## Getting Started
 Run program with below command.
